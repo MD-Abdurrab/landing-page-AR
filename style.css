@@ -1,0 +1,22 @@
+.header{
+    background-color:rgb(157, 216, 155);
+    text-align: center;
+    background-image: url(image/iTHCRCwI810e39uy4QsByWmUN8z.jpg);
+    background-size: cover;
+    
+}
+.nav{
+    background-color: rgb(148, 85, 85);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+    padding: 10px;
+}
+h1{
+    color: rgb(180, 170, 130);
+    font-size: 45px;
+    margin: 100px;
+    
+
+}
